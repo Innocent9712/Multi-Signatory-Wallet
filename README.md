@@ -7,6 +7,6 @@ The test/wallet.js directory contains the test scripts for the different functio
 
 To run the tests, got to the root folder on the command line and run
 
-# truffle test
+$ truffle test
 
 make sure you have your truffle and ganache setup before attempting to run the test.
